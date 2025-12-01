@@ -1,0 +1,13 @@
+{
+  "name": "little-caesars-mass",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node mass-lc-cash-order.js"
+  },
+  "dependencies": {
+    "csv-parser": "latest",
+    "cli-progress": "latest",
+    "node-fetch": "latest"
+  }
+}
